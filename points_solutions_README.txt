@@ -1,0 +1,3 @@
+- Assuming we are drawing only forward lines , not backward like (6,3)
+- Range right boundary is not considered as atleast one point in common can cause overlap
+- Assuming only positive integers are given as inputs
